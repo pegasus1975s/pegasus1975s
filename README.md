@@ -20,9 +20,7 @@
 
 ```bash
 zeplaovn@kali:~$ cat /etc/profile
-```
 
-```
 Name    : zeplaovn
 Role    : Security Researcher / Penetration Tester
 Focus   : Web Exploitation · Binary Exploitation · Red Teaming
@@ -60,7 +58,7 @@ Status  : Actively hunting bugs & solving CTFs
 ## $ cat achievements.log
 
 ```
-[✔] PicoCTF        — Top 10% Global    — 100% Web Exploitation solved
+[✔] CyLab          — Top 10% Global    — 85% Web Exploitation solved
 [✔] Root-Me        — 18,000+ pts       — First Blood on multiple Web labs
 [✔] Pwnable.kr     — Rank #230         — Binary & RE challenges
 [✔] Pwn.college    — Rank #517         — Low-level binary exploitation
@@ -76,7 +74,6 @@ Status  : Actively hunting bugs & solving CTFs
 
 | Platform | Link |
 |:---:|:---:|
-| 🏴 CyLab | [learn.cylabacademy.org/users/zeplaovn](https://learn.cylabacademy.org/users/zeplaovn) |
 | 🐛 Bugcrowd | [bugcrowd.com/h/zeplaovn](https://bugcrowd.com/h/zeplaovn) |
 | 💀 Root-Me | [root-me.org/zeplaovn](https://www.root-me.org/zeplaovn?lang=en) |
 | 💣 Pwnable.kr | [pwnable.kr](https://pwnable.kr/index.php) |
