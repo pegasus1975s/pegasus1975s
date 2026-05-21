@@ -1,22 +1,19 @@
 <!-- Header -->
 <div align="center">
-<a href='https://github.com/zeplaovn/zeplaovn' style="text-decoration: none;"'>
 
-```
-███████╗███████╗██████╗ ██╗      █████╗  ██████╗ ██╗   ██╗███╗   ██╗
-╚══███╔╝██╔════╝██╔══██╗██║     ██╔══██╗██╔═══██╗██║   ██║████╗  ██║
-  ███╔╝ █████╗  ██████╔╝██║     ███████║██║   ██║██║   ██║██╔██╗ ██║
- ███╔╝  ██╔══╝  ██╔═══╝ ██║     ██╔══██║██║   ██║╚██╗ ██╔╝██║╚██╗██║
-███████╗███████╗██║     ███████╗██║  ██║╚██████╔╝ ╚████╔╝ ██║ ╚████║
-╚══════╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═══╝
-```
 
-</a>
+[```███████╗███████╗██████╗ ██╗      █████╗  ██████╗ ██╗   ██╗███╗   ██╗```](https://github.com/zeplaovn/zeplaovn)<br>
+[```╚══███╔╝██╔════╝██╔══██╗██║     ██╔══██╗██╔═══██╗██║   ██║████╗  ██║```](https://github.com/zeplaovn/zeplaovn)<br>
+[```  ███╔╝ █████╗  ██████╔╝██║     ███████║██║   ██║██║   ██║██╔██╗ ██║```](https://github.com/zeplaovn/zeplaovn)<br>
+[``` ███╔╝  ██╔══╝  ██╔═══╝ ██║     ██╔══██║██║   ██║╚██╗ ██╔╝██║╚██╗██║```](https://github.com/zeplaovn/zeplaovn)<br>
+[```███████╗███████╗██║     ███████╗██║  ██║╚██████╔╝ ╚████╔╝ ██║ ╚████║```](https://github.com/zeplaovn/zeplaovn)<br>
+[```╚══════╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═══╝```](https://github.com/zeplaovn/zeplaovn)<br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&width=600&lines=Security+Researcher+%7C+CTF+Player+%7C+Bug+Hunter;Breaking+Systems+%E2%80%94+Securing+Tomorrow;Web+Exploitation+%7C+Binary+%7C+Red+Team)](https://git.io/typing-svg)
 
-</div>
 
+</div>
 ---
 
 ## $ whoami
@@ -73,7 +70,7 @@ Status  : Actively hunting bugs & solving CTFs
 
 ## $ ls profiles/
 
-<div align="center">
+
 
 | Platform | Link |
 |:---:|:---:|
@@ -84,28 +81,18 @@ Status  : Actively hunting bugs & solving CTFs
 | 🎓 Pwn.college | [pwn.college/hacker/zeplaovn](https://pwn.college/hacker/zeplaovn) |
 | 🏛️ CyLab | [cylabacademy.org/users/zeplaovn](https://learn.cylabacademy.org/users/zeplaovn) |
 
-</div>
+
 
 ---
 
 ## $ cat stats.sh && bash stats.sh
 
-<div align="center">
 
-<a href="https://github.com/zeplaovn">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zeplaovn&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/zeplaovn">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeplaovn&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-</a>
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=zeplaovn&repo=shop-den-coffee&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41)](https://github.com/zeplaovn/shop-den-coffee)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=zeplaovn&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)](https://github.com/zeplaovn)
 
-<br/>
-
-<a href="https://github.com/zeplaovn">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeplaovn&stroke=00ff41&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=ffffff&currStreakLabel=00ff41&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
-</a>
-
-</div>
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=zeplaovn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41)](https://github.com/zeplaovn)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeplaovn&stroke=00ff41&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=ffffff&currStreakLabel=00ff41&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true)](https://github.com/zeplaovn)
 
 ---
 
@@ -128,19 +115,19 @@ zeplaovn@kali:~$ echo $CONTACT
 
 ## $ cat support.txt
 
-<div align="center">
+
 
 If my writeups or tools helped you — no pressure, but appreciated:
 
-**PayPal:** [paypal.me/zeplaovn](https://paypal.me/zeplaovn) · `zeplaovn@proton.me`
+**PayPal:** [paypal.me/zeplaovn](https://paypal.me/zeplaovn) · ```zeplaovn@proton.me```
 
-**ETH:** `0xe92E3B1445a740fcaf5de46140fE623884f89219`
+**ETH:** ```0xe92E3B1445a740fcaf5de46140fE623884f89219```
 
-</div>
+
 
 ---
 
-<div align="center">
+
 
 ```
 [zeplaovn@kali ~]$ █
@@ -148,4 +135,4 @@ If my writeups or tools helped you — no pressure, but appreciated:
 
 *Breaking Systems — Securing Tomorrow*
 
-</div>
+
