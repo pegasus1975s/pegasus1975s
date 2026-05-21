@@ -14,6 +14,8 @@
 
 
 </div>
+
+
 ---
 
 ## $ whoami
@@ -127,12 +129,6 @@ If my writeups or tools helped you — no pressure, but appreciated:
 
 ---
 
-
-
-```
-[zeplaovn@kali ~]$ █
-```
-
-*Breaking Systems — Securing Tomorrow*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=00FF41&width=500&lines=%5Bzeplaovn%40kali+~%5D%24+whoami;zeplaovn+--+Security+Researcher;%5Bzeplaovn%40kali+~%5D%24+%E2%96%88)](https://git.io/typing-svg)
 
 
