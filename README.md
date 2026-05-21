@@ -1,89 +1,151 @@
-![Welcome](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<!-- Header -->
+<div align="center">
+
+```
+███████╗███████╗██████╗ ██╗      █████╗  ██████╗ ██╗   ██╗███╗   ██╗
+╚══███╔╝██╔════╝██╔══██╗██║     ██╔══██╗██╔═══██╗██║   ██║████╗  ██║
+  ███╔╝ █████╗  ██████╔╝██║     ███████║██║   ██║██║   ██║██╔██╗ ██║
+ ███╔╝  ██╔══╝  ██╔═══╝ ██║     ██╔══██║██║   ██║╚██╗ ██╔╝██║╚██╗██║
+███████╗███████╗██║     ███████╗██║  ██║╚██████╔╝ ╚████╔╝ ██║ ╚████║
+╚══════╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═══╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&width=600&lines=Security+Researcher+%7C+CTF+Player+%7C+Bug+Hunter;Breaking+Systems+%E2%80%94+Securing+Tomorrow;Web+Exploitation+%7C+Binary+%7C+Red+Team)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-#                                                                         Introduction
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35FB00&center=true&width=435&lines=Breaking+system+-+Breaking+world)](https://git.io/typing-svg)
+## $ whoami
 
-<i>H3110,Welcome to my github. Im <b>zeplaovn</b> and a <b>WhiteHat Security Pentester</b>. Passionate about <b>Bug Bounty, Web Security, and CTF challenges</b>.  
+```bash
+zeplaovn@kali:~$ cat /etc/profile
+```
 
+```
+Name    : zeplaovn
+Role    : Security Researcher / Penetration Tester
+Focus   : Web Exploitation · Binary Exploitation · Red Teaming
+Status  : Actively hunting bugs & solving CTFs
+```
 
-<span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span></i>
+> *"To defend a system, you must first learn how to break it."*
 
 ---
 
-# Cyber Security Skillset
-
-### 🛡️ Cybersecurity & CTF Toolkit
-| Lĩnh vực | Công cụ phổ biến | Mô tả |
-| :--- | :--- | :--- |
-| **Recon & Scanning** | `Nmap`, `Masscan`, `FFUF` | Quét cổng, dịch vụ và tìm kiếm thư mục ẩn. |
-| **Web Exploitation** | `Burp Suite`, `SQLmap` | Chặn bắt request, kiểm tra lỗ hổng SQL Injection. |
-| **Vulnerability** | `Metasploit`, `Searchsploit` | Khai thác các lỗ hổng bảo mật đã công bố (CVE). |
-| **Password Cracking** | `John the Ripper`, `Hashcat` | Bẻ khóa mật khẩu và giải mã các loại hash. |
-| **Forensics/Reverse** | `Ghidra`, `Wireshark`, `Binwalk` | Phân tích mã nguồn, lưu lượng mạng và file nhị phân. |
-| **Privilege Escalation** | `LinPeas`, `WinPeas` | Tìm kiếm con đường leo thang đặc quyền trên hệ thống. |
-
+## $ cat skills.txt
 
 ### Offensive Security
-- **Web Exploitation** (XSS, SQLi, SSTI, RCE, SSRF, IDOR, CSRF)
-- **Network Security** (Nmap, Wireshark, Metasploit, tcpdump, nc)
-- **Exploit Development & Reverse Engineering** (pwntools, Ghidra, radare2, ollydbg, pwndbg)
-- **CTF Skills** (Forensics, Crypto, Stego, Binary Exploitation)
+
+| Domain | Tools | Techniques |
+|:---|:---|:---|
+| **Web Exploitation** | Burp Suite Pro, Caido, OWASP ZAP, ffuf, Nuclei, SQLMap, dalfox, Arjun | SQLi, XSS, SSRF, XXE, IDOR, SSTI, RCE, Deserialization, Auth Bypass |
+| **Binary Exploitation** | pwntools, GDB+pwndbg, pwndbg, angr | Buffer Overflow, ROP Chains, Heap Exploitation, Format String, UAF |
+| **Reverse Engineering** | IDA Pro, Ghidra, Binary Ninja, Radare2 | Static & Dynamic Analysis, Anti-debug Bypass, Firmware Unpacking |
+| **Recon & OSINT** | Amass, Subfinder, httpx, gau, Shodan, Censys, theHarvester | Subdomain Enum, ASN Discovery, Attack Surface Mapping, Google Dorks |
+| **Network & Forensics** | Wireshark, tshark, Volatility 3, Autopsy, Binwalk, stegsolve | PCAP Analysis, Memory Forensics, File Carving, Steganography |
+| **Cryptography** | CyberChef, RsaCtfTool, Hashcat, John the Ripper, SageMath | RSA Attacks, Hash Cracking, Padding Oracle, AES-ECB |
+| **Privilege Escalation** | LinPEAS, WinPEAS, BloodHound, Mimikatz, CrackMapExec, Evil-WinRM | SUID Abuse, Kerberoasting, Pass-the-Hash, DCSync, Token Impersonation |
+| **Scripting** | Python 3, Bash, Go | Exploit Dev, Custom Scanners, Automation Pipelines |
 
 ### Defensive Security
-- **Linux Hardening** (Lynis, AppArmor, systemd security)
-- **Threat Modeling & Vulnerability Assessment**
-- **Log Analysis & SIEM**
+
+- Linux hardening — AppArmor, systemd security policies, Lynis auditing
+- Threat modeling & vulnerability assessment
+- Log analysis & SIEM basics
+- Responsible disclosure & CVE research
 
 ---
 
-# ⚡ CTF & Bug Bounty
-- Actively participating in **Capture The Flag competitions** (CTFtime, PicoCTF, HackTheBox challenges).  
-- Practicing **Bug Hunting** on platforms like HackerOne, BugCrowd, and Intigriti.  
-- Focus on **Web Security** and **Exploitation Research**.  
+## $ cat achievements.log
 
-# My profile 
-- [PicoCTF](https://play.picoctf.org/users/zeplaovn)
-- [Bugcrowd](https://bugcrowd.com/h/zeplaovn)
-- [Root Me](https://www.root-me.org/4tt4ck_53rV3r?lang=en)
-- [PWNABLE](https://pwnable.kr/index.php)
-- [Hack The Box](https://app.hackthebox.com/profile/2093249)
-- [pwn.college](https://pwn.college/hacker/zeplaovn)
+```
+[✔] PicoCTF        — Top 10% Global    — 100% Web Exploitation solved
+[✔] Root-Me        — 18,000+ pts       — First Blood on multiple Web labs
+[✔] Pwnable.kr     — Rank #230         — Binary & RE challenges
+[✔] Pwn.college    — Rank #517         — Low-level binary exploitation
+[✔] HackTheBox     — Rank #621         — Active Bug Hunter Dashboard
+[✔] Bugcrowd       — Rank #2133        — Google · Meta · Microsoft · Shopee
+```
 
 ---
 
-# 📊 GitHub Stats
-<a href="http://www.github.com/zeplaovn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeplaovn&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## $ ls profiles/
 
-# 🏆 GitHub Trophies
-[![trophy](https://github-profile-repo.vercel.app/?username=zeplaovn&theme=matrix)](https://github.com/zeplaovn/github-profile-trophy)
+<div align="center">
+
+| Platform | Link |
+|:---:|:---:|
+| 🏴 CyLab | [learn.cylabacademy.org/users/zeplaovn](https://learn.cylabacademy.org/users/zeplaovn) |
+| 🐛 Bugcrowd | [bugcrowd.com/h/zeplaovn](https://bugcrowd.com/h/zeplaovn) |
+| 💀 Root-Me | [root-me.org/zeplaovn](https://www.root-me.org/zeplaovn?lang=en) |
+| 💣 Pwnable.kr | [pwnable.kr](https://pwnable.kr/index.php) |
+| 📦 HackTheBox | [hackthebox.com — #2093249](https://app.hackthebox.com/profile/2093249) |
+| 🎓 Pwn.college | [pwn.college/hacker/zeplaovn](https://pwn.college/hacker/zeplaovn) |
+| 🏛️ CyLab | [cylabacademy.org/users/zeplaovn](https://learn.cylabacademy.org/users/zeplaovn) |
+
+</div>
 
 ---
 
-# 📬 Contact
-📧 Email: [Email](mailto:zeplaovn@proton.me)
+## $ cat stats.sh && bash stats.sh
 
-🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/zeplaovn)  
+<div align="center">
 
-🌐 Blog/Writeup: [Youtube](https://youtube.com/@zeplaovn)
-
----
-
-# ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/zeplaovn">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+<a href="https://github.com/zeplaovn">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zeplaovn&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/zeplaovn">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeplaovn&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 </a>
 
+<br/>
 
-## Cryptocurrency Addresses:
+<a href="https://github.com/zeplaovn">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeplaovn&stroke=00ff41&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=ffffff&currStreakLabel=00ff41&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
+</a>
 
-<p style="font-size: 16px; font-weight: bold; color: #00FF00;">ETH Address:</p>
-<p style="background-color: #000000; padding: 8px; color: #00FF00; border-radius: 5px; font-family: monospace; font-size: 14px;">
-  <b><i>0xe92E3B1445a740fcaf5de46140fE623884f89219</i></b>
-</p>
+</div>
 
+---
 
+## $ cat contact.txt
 
+```bash
+zeplaovn@kali:~$ echo $CONTACT
+```
 
+| Channel | Address |
+|:---|:---|
+| 📧 Email | [zeplaovn@proton.me](mailto:zeplaovn@proton.me) |
+| 🌐 Portfolio | [zeplao.vn](https://zeplaovn.github.io) |
+| 📺 YouTube / Writeups | [youtube.com/@zeplaovn](https://youtube.com/@zeplaovn) |
+| 💼 LinkedIn | [linkedin.com/in/zeplaovn](https://linkedin.com/in/zeplaovn) |
+
+> **For:** bug bounty collaboration · CTF teamwork · security research only.
+
+---
+
+## $ cat support.txt
+
+<div align="center">
+
+If my writeups or tools helped you — no pressure, but appreciated:
+
+**PayPal:** [paypal.me/zeplaovn](https://paypal.me/zeplaovn) · `zeplaovn@proton.me`
+
+**ETH:** `0xe92E3B1445a740fcaf5de46140fE623884f89219`
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[zeplaovn@kali ~]$ █
+```
+
+*Breaking Systems — Securing Tomorrow*
+
+</div>
