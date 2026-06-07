@@ -121,7 +121,7 @@ zeplaovn@kali:~$ echo $CONTACT
 
 If my writeups or tools helped you — no pressure, but appreciated:
 
-**PayPal:** [paypal.me/zeplaovn](https://paypal.me/zeplaovn) · ```mailto:zeplaovn@proton.me```
+**PayPal:** [paypal.me/zeplaovn](https://paypal.me/zeplaovn) · [zeplaovn@proton.me](mailto:zeplaovn@proton.me)
 
 **ETH:** ```0xe92E3B1445a740fcaf5de46140fE623884f89219```
 
